@@ -1,0 +1,33 @@
+.btn-custom {
+  display: inline-block;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: white;
+  border: 2px solid black;
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  text-decoration: none; 
+}
+
+.btn-custom:hover {
+  color: black;
+  background-color: #f8f9fa; 
+}
+
+.places-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.places-list li {
+  margin-bottom: 0.75rem;
+}
+
+.places-list a {
+  font-size: 1.2rem;
+  text-decoration: none;
+}
